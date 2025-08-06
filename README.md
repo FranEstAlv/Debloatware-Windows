@@ -27,3 +27,35 @@ Este repositorio contiene dos scripts `.bat` diseñados para mejorar el rendimie
 1. **Clona el repositorio o descarga los archivos**:
 2. **Ejecuta primero el script "politica_de_uso.bat" en PowerShell con privilegios de administrador**
 3. **Ejecuta el segundo script "bloatware.bat" también en PowerShell como administrador**
+
+## 🚀 Lista de los programas a eliminar 
+
+Microsoft 3DBuilder
+BingNews
+GetHelp
+Getstarted
+Messaging
+MicrosoftOfficeHub
+OneConnect
+People
+SkypeApp
+SolitaireCollection
+StickyNotes
+Wallet
+WebExperience
+Xbox
+ZuneMusic
+ZuneVideo
+YourPhone
+WindowsMaps
+MixedReality
+FeedbackHub
+Cortana
+Teams
+TikTok
+Clipchamp
+News
+Weather
+ToDo
+Whiteboard
+PowerAutomateDesktop
