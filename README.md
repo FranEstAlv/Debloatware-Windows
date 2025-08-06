@@ -30,32 +30,32 @@ Este repositorio contiene dos scripts `.bat` diseñados para mejorar el rendimie
 
 ## 🚀 Lista de los programas a eliminar 
 
-Microsoft 3DBuilder
-BingNews
-GetHelp
-Getstarted
-Messaging
-MicrosoftOfficeHub
-OneConnect
-People
-SkypeApp
-SolitaireCollection
-StickyNotes
-Wallet
-WebExperience
-Xbox
-ZuneMusic
-ZuneVideo
-YourPhone
-WindowsMaps
-MixedReality
-FeedbackHub
-Cortana
-Teams
-TikTok
-Clipchamp
-News
-Weather
-ToDo
-Whiteboard
-PowerAutomateDesktop
+-Microsoft 3D Builder
+-Bing News
+-Get Help
+-Get started
+-Messaging
+-Microsoft Office Hub
+-One Connect
+-People
+-SkypeApp
+-Solitaire Collection
+-Sticky Notes
+-Wallet
+-Web Experience
+-Xbox
+-Zune Music
+-Zune Video
+-Your Phone
+-Windows Maps
+-Mixed Reality
+-Feedback Hub
+-Cortana
+-Teams
+-TikTok
+-Clipchamp
+-News
+-Weather
+-ToDo
+-Whiteboard
+-Power Automate Desktop
